@@ -29,7 +29,6 @@ export default function App() {
           <Image source={require('./icon/home.png')} style={{width:40,height:40}}/>
         </View>
     </SafeAreaView>
-
   );
 }
 
